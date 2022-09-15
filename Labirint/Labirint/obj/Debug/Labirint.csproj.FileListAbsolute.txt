@@ -1,0 +1,8 @@
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe.config
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.exe
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.exe
+D:\Саша\Рабочий стол\Лабиринт\Labirint\Labirint\obj\Debug\Labirint.pdb
